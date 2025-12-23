@@ -1,0 +1,29 @@
+Run 1
+
+t=   0  mean_entropy=0.5211
+t= 100  mean_entropy=0.5509
+t= 200  mean_entropy=0.5052
+t= 300  mean_entropy=0.4991
+t= 400  mean_entropy=0.4988
+t= 500  mean_entropy=0.4977
+t= 600  mean_entropy=0.4975
+t= 700  mean_entropy=0.4978
+t= 800  mean_entropy=0.4980
+t= 900  mean_entropy=0.4977
+Simulation finished.
+Final mean entropy: 0.49802488743766987
+
+Run 2
+
+t=   0  mean_entropy=0.5220
+t= 100  mean_entropy=0.5505
+t= 200  mean_entropy=0.5059
+t= 300  mean_entropy=0.4988
+t= 400  mean_entropy=0.4971
+t= 500  mean_entropy=0.4977
+t= 600  mean_entropy=0.4977
+t= 700  mean_entropy=0.4979
+t= 800  mean_entropy=0.4974
+t= 900  mean_entropy=0.4981
+Simulation finished.
+Final mean entropy: 0.49822597647501493

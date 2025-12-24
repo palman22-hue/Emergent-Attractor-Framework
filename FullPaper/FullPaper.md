@@ -85,7 +85,7 @@ with \( \gamma \in (0,1] \) the field strength.
 **Definition 5 (Voluntary Alignment vs Forced Uniformity).**  
 A system exhibits **voluntary alignment** when agents move toward an attractor through a combination of social interaction, attractor influence, and noise, while preserving variation.  
 A system exhibits **forced uniformity** when agents are strongly and directly pushed toward a single state \(u\), with minimal opposing variation.
-
+Forced uniformity corresponds to a larger effective field strength  γ coercive ≈ 1γ coercive ≈1 and reduced or zero noise.
 ---
 
 ## Lemmas
@@ -138,7 +138,7 @@ Then:
 3. Forced uniformity yields compressed clusters with minimal spread and reduced resilience.
 
 **Conclusion.**  
-Voluntary alignment supports both entropy reduction and resilience, while forced uniformity reduces entropy at the cost of adaptability.
+Voluntary alignment supports both entropy reduction and resilience, while forced uniformity reduces entropy at the cost of adaptability. Thus, resilience depends on preserving a non‑zero variance around attractors rather than solely minimizing entropy
 
 ---
 
@@ -188,12 +188,12 @@ System overview. Conceptual diagram of the Emergent Attractor Framework showing 
 Attractor basins (schematic). ASCII schematic of the attractor landscape, illustrating how different initial emotional states flow toward distinct basins under the shared update rules.
 ​
 
-- Figure 3  RUN_C!.jpg
+- Figure 3  RUN_C1.jpg
 
 Voluntary alignment PCA projection. PCA projection of the 21‑dimensional emotional state space to 2D for the voluntary‑alignment condition; points cluster around a relatively high‑entropy, diffuse attractor.
 ​
 
-- Figure 4  RUN_C!_CLI.jpg
+- Figure 4  RUN_C1_CLI.jpg
 
 Voluntary alignment entropy trace. Time series of mean entropy across agents under voluntary alignment, showing gradual convergence to a stable but relatively high‑entropy equilibrium.
 ​

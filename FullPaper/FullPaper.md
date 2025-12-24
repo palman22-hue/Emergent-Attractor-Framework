@@ -176,3 +176,35 @@ These directions may broaden the applicability of the framework and deepen our u
 
 ---
 
+## Figure captions
+
+- Figure 1  ASCIIOverviewDiagram.md
+
+System overview. Conceptual diagram of the Emergent Attractor Framework showing agents, emotional state      vectors, update dynamics, and the global attractor basin structure used in all experiments.
+​
+
+- Figure 2  AttractorBasins.md
+
+Attractor basins (schematic). ASCII schematic of the attractor landscape, illustrating how different initial emotional states flow toward distinct basins under the shared update rules.
+​
+
+- Figure 3  RUN_C!.jpg
+
+Voluntary alignment PCA projection. PCA projection of the 21‑dimensional emotional state space to 2D for the voluntary‑alignment condition; points cluster around a relatively high‑entropy, diffuse attractor.
+​
+
+- Figure 4  RUN_C!_CLI.jpg
+
+Voluntary alignment entropy trace. Time series of mean entropy across agents under voluntary alignment, showing gradual convergence to a stable but relatively high‑entropy equilibrium.
+​
+
+- Figure 5  RUN_C2.jpg
+
+Coercive attractor PCA projection. PCA projection of the same 21‑dimensional state space under coercive dynamics, revealing a tighter, lower‑variance cluster around a more constrained attractor.
+​
+
+- Figure 6  RUN_C2_CLI.jpg
+
+Coercive attractor entropy trace. Time series of mean entropy for the coercive condition, demonstrating a faster drop and convergence to a substantially lower‑entropy fixed point than in the voluntary case.
+​
+---

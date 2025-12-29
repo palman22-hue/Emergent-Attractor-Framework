@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1121764509.svg)](https://doi.org/10.5281/zenodo.18035787)
+
+
 # EMERGENT ATTRACTOR FRAMEWORK  
 **A Formal Model of Alignment, Entropy, and Stability in Multi-Agent Systems**
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![Research Framework](https://img.shields.io/badge/Type-Research%20Framework-orange.svg)]
+[![Research Framework](https://img.shields.io/badge/Type-Research%20Framework-orange.svg)](#)
 
 
 ## 🧠 Overview

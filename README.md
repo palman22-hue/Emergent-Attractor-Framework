@@ -6,7 +6,7 @@
 [![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Research Framework](https://img.shields.io/badge/Type-Research%20Framework-orange.svg)](#)
-
+[![DOI](https://zenodo.org/badge/1121764509.svg)](https://doi.org/10.5281/zenodo.18035787)
 
 ## 🧠 Overview
 

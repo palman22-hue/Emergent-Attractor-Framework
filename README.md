@@ -16,15 +16,6 @@ Aanbevolen manier:
 pip install -r requirements.txt
 streamlit run app.py
 
-## Installation (FULL)
-
-```bash
-pip install -U scikit-learn
-pip install umap-learn
-pip install matplotlib
-pip install streamlit
-streamlit run app.py
-
 
 ## 🧠 Overview
 

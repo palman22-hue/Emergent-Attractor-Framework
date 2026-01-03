@@ -15,6 +15,7 @@ Aanbevolen manier:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 ## 🧠 Overview

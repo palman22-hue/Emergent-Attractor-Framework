@@ -8,6 +8,24 @@
 [![Research Framework](https://img.shields.io/badge/Type-Research%20Framework-orange.svg)](#)
 [![DOI](https://zenodo.org/badge/1121764509.svg)](https://doi.org/10.5281/zenodo.18035787)
 
+## Installation (NEW!
+
+Aanbevolen manier:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+## Installation (FULL)
+
+```bash
+pip install -U scikit-learn
+pip install umap-learn
+pip install matplotlib
+pip install streamlit
+streamlit run app.py
+
+
 ## 🧠 Overview
 
 This repository contains a complete research framework for studying ethical stability in multi-agent systems using entropy dynamics and attractor-based alignment.  
